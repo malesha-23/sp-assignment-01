@@ -1,6 +1,7 @@
 /*
 7.	Problem: Reverse a Number
 a.	Write a C program to reverse a given integer using a while loop.
+
 */
 
 #include<stdio.h>
@@ -18,3 +19,4 @@ int main()
     return 0;
 }
 
+//testing
